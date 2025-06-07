@@ -15,7 +15,7 @@ Sou um desenvolvedor em formação na 42, apaixonado por sistemas operacionais, 
 ### 📌 Projetos em destaque
 
 #### 🐚 [Minishell](https://github.com/guilhermeclementedev/minishell)
-Implementação de uma mini shell Unix em C, com suporte a:
+Implementação de um shell Unix simplificado em C, desenvolvido em colaboração como parte do currículo da Escola 42. Foco em análise sintática, execução de comandos, redirecionamentos, pipes e gerenciamento de sinais.
 
 #### 🧠 [Philosopher](https://github.com/guilhermeclementedev/philosopher)
 Simulação do clássico problema dos filósofos com threads e mutexes em C. O projeto trabalha concorrência, sincronização, prevenção de deadlocks e uso de semáforos para controle de acesso a recursos compartilhados.
