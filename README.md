@@ -23,5 +23,5 @@ Simulação do clássico problema dos filósofos com threads e mutexes em C. O p
 ---
 
 ### 📫 Vamos nos conectar!
-- [LinkedIn](https://www.linkedin.com/in/guilherme-clemente-de-almeida-a637b9217/)
+- [Guilherme Clemente](https://www.linkedin.com/in/guilherme-clemente-de-almeida-a637b9217/)
 - 📧 guilhermeclementedealmeida@gmail.com
